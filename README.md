@@ -44,7 +44,7 @@ Managing file permissions is a critical aspect of maintaining a secure Linux-bas
 
 ### References
 
-- [File Permissions Template](https://docs.google.com/document/d/1A3xiUi9wbXf5lGvRwm8oFsXq18Q8mP7FUDNndjj89zc/template/preview)
+- [File Permissions Template](https://docs.google.com/document/d/1oA9l2x0LpvW2qUvrej0vNXoMwHd5o8YXFxkwpaAQMl8/edit?tab=t.0#heading=h.uakdmh2r7kug)
 - [Instructions for Including Linux Commands](https://docs.google.com/document/d/1t-9o-bPndpOIh9577FJobiakS10kJxgIKrB6GG7EPwA/template/preview?resourcekey=0-623w2JztdmNSu3nDbsQJcQ)
 - [Current File Permissions](https://docs.google.com/document/d/1F3-8XQZsNagSzTkJwFzOGY5OHbGbMRtlb8GbmXE_gCc/template/preview?resourcekey=0-UUEu0EyFFvMf0SAipcel6w)
   
