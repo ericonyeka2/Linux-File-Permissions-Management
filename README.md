@@ -14,7 +14,28 @@ This project demonstrates how to manage and audit file permissions in a Linux en
 - Linux terminal (bash)  
 - Commands: `ls -l`, `chmod`, `ls -a`, `chmod -R`, `chown`
 
-## Steps using the file premissions template provided to me
+## Steps
+#### The steps feature screenshots of the Linux commands executed and reference the file permissions template I used
+### 1. Project description
+<img width="649" alt="Screenshot 2025-04-08 at 16 08 05" src="https://github.com/user-attachments/assets/cd3a3c93-e1b5-4865-b0c3-b3d1de3cf0cc" />
 
-### 1. project description
+### 2. Check file and directory details
+<img width="658" alt="Screenshot 2025-04-08 at 16 09 47" src="https://github.com/user-attachments/assets/0154325f-176a-4b78-833d-69c9695d31c5" />
+
+### 3. Describe the permissions string
+<img width="637" alt="Screenshot 2025-04-08 at 16 10 58" src="https://github.com/user-attachments/assets/7f10093c-7e7f-4c4b-b85e-f84d08e01e36" />
+<img width="646" alt="Screenshot 2025-04-08 at 16 11 19" src="https://github.com/user-attachments/assets/dcc0707b-db57-47a0-ada3-6db36b62734d" />
+
+### 4. Change file permissions
+<img width="654" alt="Screenshot 2025-04-08 at 16 11 59" src="https://github.com/user-attachments/assets/6cfd2c1f-25f0-4561-8d3b-88a2f2b3be17" />
+
+### 5. Change file permissions on a hidden file
+<img width="648" alt="Screenshot 2025-04-08 at 16 13 09" src="https://github.com/user-attachments/assets/2089db90-dafa-4945-a71a-0d16d5850801" />
+
+### 6. Change directory permissions
+<img width="650" alt="Screenshot 2025-04-08 at 16 14 08" src="https://github.com/user-attachments/assets/b1c8384f-61dd-4578-830b-7e548c290020" />
+<img width="632" alt="Screenshot 2025-04-08 at 16 14 58" src="https://github.com/user-attachments/assets/a9820333-33af-4561-91eb-a7c27eb1b2ab" />
+
+### 7. Summary
+<img width="622" alt="Screenshot 2025-04-08 at 16 15 41" src="https://github.com/user-attachments/assets/0e7c8767-bcfa-4e15-bc8b-f673f0f2ec23" />
 
