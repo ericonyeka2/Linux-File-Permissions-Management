@@ -39,3 +39,13 @@ This project demonstrates how to manage and audit file permissions in a Linux en
 ### 7. Summary
 <img width="622" alt="Screenshot 2025-04-08 at 16 15 41" src="https://github.com/user-attachments/assets/0e7c8767-bcfa-4e15-bc8b-f673f0f2ec23" />
 
+## Conclusion  
+Managing file permissions is a critical aspect of maintaining a secure Linux-based system. In this project, I reviewed and updated the permissions for various files and directories within the projects directory to ensure they aligned with my organization’s access policies. By using commands such as ls -la to inspect current permissions and chmod to modify them, I was able to control which users and groups could read, write, or execute specific files. This hands-on experience has reinforced my understanding of Linux file permission structures and the importance of enforcing the principle of least privilege in a real-world environment.
+
+### References
+
+- [File Permissions Template](https://docs.google.com/document/d/1A3xiUi9wbXf5lGvRwm8oFsXq18Q8mP7FUDNndjj89zc/template/preview)
+- [Instructions for Including Linux Commands](https://docs.google.com/document/d/1t-9o-bPndpOIh9577FJobiakS10kJxgIKrB6GG7EPwA/template/preview?resourcekey=0-623w2JztdmNSu3nDbsQJcQ)
+- [Current File Permissions](https://docs.google.com/document/d/1F3-8XQZsNagSzTkJwFzOGY5OHbGbMRtlb8GbmXE_gCc/template/preview?resourcekey=0-UUEu0EyFFvMf0SAipcel6w)
+  
+
