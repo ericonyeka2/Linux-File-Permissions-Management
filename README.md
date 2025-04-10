@@ -16,6 +16,7 @@ This project demonstrates how to manage and audit file permissions in a Linux en
 
 ## Steps
 #### These steps include screenshots of the Linux commands executed, with references to the file permissions template applied during the process.
+
 ### 1. Project description
 <img width="649" alt="Screenshot 2025-04-08 at 16 08 05" src="https://github.com/user-attachments/assets/cd3a3c93-e1b5-4865-b0c3-b3d1de3cf0cc" />
 
